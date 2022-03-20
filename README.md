@@ -20,4 +20,5 @@ I'm Craig Wall, a New Jersey public sector systems administrator specializing in
 I've worked for a county agency, a state agency, and now manage endpoints at Rutgers University. 
 
 [Craig's LinkedIn](https://linkedin.com/in/craigtwall)
+
 [Also, My Website]](https://craigtwall.com/)
