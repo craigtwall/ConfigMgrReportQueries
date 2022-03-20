@@ -1,11 +1,16 @@
 # ConfigMgr Report Queries
 Copies of SQL Queries Used to Gather Info For SCCM / MEMCM / Configuration Manager Reports. Mostly SQL-Based, but I plan to have WQL alternatives for each
 
-## What Can You Expect To Find Here?
+## What Can You Find Here?
 
-Mostly, SQL queries that I've blogged on the use of. 
+**Autopilot_HashWithSerial.sql** 
 
-Built-in Configuration Manager/SCCM reports only go so far.
+Returns device serial, plus the hardware hash, for Autopilot use
+
+**Devices_Without_App_Installed.sql** 
+
+Shows how to get a report of devices that do **not** have a specific piece of software installed, along with the device's primary user. 
+
 
 ## Will I Add Anything Else?
 
