@@ -21,4 +21,4 @@ I've worked for a county agency, a state agency, and now manage endpoints at Rut
 
 [Craig's LinkedIn](https://linkedin.com/in/craigtwall)
 
-[Also, My Website]](https://craigtwall.com/)
+[Also, My Website](https://craigtwall.com/)
